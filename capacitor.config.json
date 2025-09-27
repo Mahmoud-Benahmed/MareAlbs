@@ -1,0 +1,7 @@
+{
+  "appId": "com.marealbs.app",
+  "appName": "marealbs",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
+  

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">marealbs</string>
+    <string name="title_activity_main">marealbs</string>
+    <string name="package_name">com.marealbs.app</string>
+    <string name="custom_url_scheme">com.marealbs.app</string>
+    <string name="check_toast_messages_for_insertion_status">Check Toast messages for insertion status!</string>
+</resources>
